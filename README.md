@@ -1,26 +1,14 @@
 ### Hi there 👋
 
-<!--
-**mama1928/mama1928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://honzaap.github.io/GithubCity/?name=mama1928&year=2023"></a>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mama1928&theme=2077)
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mama1928&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mama1928&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mama1928&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mama1928&theme=2077&utcOffset=8)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mama1928&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lh49abx6y7zwj7a8uqcl" alt="trackgit-views" />
+</a>
