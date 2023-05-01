@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://honzaap.github.io/GithubCity/?name=mama1928&year=2023"></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mama1928&theme=2077)
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mama1928&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mama1928&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
